@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/3c34kfkabi5ech8g/branch/master?svg=true)](https://ci.appveyor.com/project/antakov87/task-2-1-selenide/branch/master)
